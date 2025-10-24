@@ -4,10 +4,11 @@ Este proyecto es una página web para un festival de música, creada como una pr
 
 ## Tecnologías Utilizadas
 
-- **HTML5**: Para la estructura semántica de la página.
-- **SASS (Syntactically Awesome Style Sheets)**: Como preprocesador de CSS para escribir estilos de una manera más mantenible y organizada.
-- **NPM (Node Package Manager)**: Para la gestión de las dependencias del proyecto.
-- **Gulp**: Como automatizador de tareas para compilar SASS, optimizar imágenes y minificar JavaScript.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Instalación y Uso
 
@@ -15,7 +16,7 @@ Sigue estos pasos para configurar y correr el proyecto en tu entorno local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/Festival-de-Musica.git
+   git clone ssh:git@github.com:794613L/Festival-D-Music.git
    ```
 
 2. **Navega al directorio del proyecto:**
