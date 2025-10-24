@@ -1,11 +1,12 @@
+<div align="center">
+
 # 🎸 Festival de Música
 
 ¡Bienvenido al repositorio oficial del proyecto Festival de Música! Esta es una página web moderna y responsive diseñada para promocionar eventos musicales, construida con las últimas tecnologías frontend.
 
-<div align="center">
-  <h1 style="background-color: #1a1a1a; color: #ff4444; padding: 10px; border-radius: 5px; display: inline-block;">🎉 ¡Bienvenido! 🎉</h1>
-</div>
----
+<img src="https://img.shields.io/badge/🤘-El%20Escenario%20Digital%20del%20Rock-ff4444.svg?style=for-the-badge" alt="El Escenario Digital del Rock">
+
+## </div>
 
 ## 📋 Tabla de Contenidos
 
@@ -83,7 +84,7 @@ Asegúrate de tener instalado:
 1️⃣ **Clona el repositorio**
 
 ```bash
-git clone git@github.com:794613L/Festival-D-Music.git
+git clone ssh git@github.com:794613L/Festival-D-Music.git
 ```
 
 2️⃣ **Navega al directorio del proyecto**
@@ -171,7 +172,7 @@ Aquí puedes ver algunas capturas de pantalla del proyecto en acción.
 | Galería |
 | :-----: |
 
-| ![Captura de la Galería 1](<./screenshots/festival-musica%20(4).png>)
-| ![Captura de la Galería 2](<./screenshots/festival-musica%20(5).png>) |
+![Captura de la Galería 1](<./screenshots/festival-musica%20(4).png>)
+![Captura de la Galería 2](<./screenshots/festival-musica%20(5).png>)
 
 ---
